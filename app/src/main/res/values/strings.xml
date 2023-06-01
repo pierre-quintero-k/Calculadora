@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Calculadora</string>
+    <string name="title">Calculator</string>
+    <string name="caja_numero_1">First Number</string>
+    <string name="caja_numero_2">Second Number</string>
+    <string name="caja_resultado">Result</string>
+    <string name="btn_add">ADD</string>
+    <string name="btn_substract">SUBSTRACT</string>
+    <string name="btn_multiply">MULTIPLY</string>
+    <string name="btn_divide">DIVIDE</string>
+</resources>
